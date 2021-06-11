@@ -10,6 +10,10 @@ With these presets the numbering is much more logical and easy to remember.
 
 ## Installation
 
+[Full Video Tutorial / Walkthrough](https://youtu.be/nOtiOq8SkG8)
+
+[![Video Tutorial on YouTube](http://i3.ytimg.com/vi/nOtiOq8SkG8/maxresdefault.jpg)](https://youtu.be/nOtiOq8SkG8)
+
 1. Download this Repository ([ZIP](https://github.com/chrisspiegl/Behringer-X-Touch-Presets/archive/refs/heads/main.zip))
 2. Extract the ZIP Archive
 3. Download the [Behringer X-Touch Editor](https://www.behringer.com/product.html?modelCode=P0B3M)
